@@ -1,9 +1,8 @@
+<h1> CountCourt </h1>
+  
+<h2> It is an Android app which counts the score of two teams </h2>
 
-# CountCourt
-## It is an Android app which counts the score of two teams
 
-<<<<<<< HEAD
-=======
 
 
 
