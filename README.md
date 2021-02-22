@@ -2,8 +2,8 @@
 
 
 
-<h2> It is an Android app which counts the score of two teams. 
-  By clicking on Poitns Buttons score will be updated and can be reset by clicking on RESET button </h2>
+ It is a Basic Android app which counts the score of two teams. 
+ By clicking on Point Buttons score will be updated and can be reset by clicking on RESET button 
 
 
 
